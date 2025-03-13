@@ -1,2 +1,1 @@
-# Digital Writing Folio
-Hi, I’m Ollie, I’m 26 and I’m an aspiring writer based in Melbourne. I love creative non-fiction and journalistic writing. I completed the screenwriting diploma at RMIT before transferring into the creative writing degree, so screenplays are a keen interest of mine as well. I’ve had no experience with this GitHub and coding stuff, but the studio sounded interesting and new to me, so I thought I’d give it a crack, hopefully I don’t regret it, because I’m already so confused. I’m hoping to work in publishing after my degree and am currently working as a bike courier to pay the rent.
+ReadMe files can be used to add descriptions of your project. You can edit this text - no need for special formatting or coding.
