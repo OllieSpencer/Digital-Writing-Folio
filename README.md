@@ -1,4 +1,4 @@
-# Digital-Writing-Folio
+# Digital Writing Folio
 
 - [Exercises](https://github.com/OllieSpencer/Digital-Writing-Folio/blob/main/exercises.md)
 
