@@ -12,22 +12,23 @@ The Buoy (2019) by Meredith Morran is an incredible piece of poetic autofiction 
 
 [Coding Playground](https://coding-playgr0und.glitch.me/)
 
-What aspects of the remix are the same?
+**What aspects of the remix are the same?**
 
 The elements that have remained the same between Dystopian dreams and Palamos dreams, my remix, are the way in which the subjects, verbs and objects are arranged and spat out the other end. The code that groups the words into sentences functions as it did before.
 
-What aspects of the remix are different?
+**What aspects of the remix are different?**
 
 The differences are the subjects, verbs and objects. This in turn has changed the meanings of the sentences that the code creates, affecting the tone of the poem. I have also changed the colour of the font to suit the video of Palamos from my camera roll which I’ve made the background. 
 
-Is the remix successful?
+**Is the remix successful?**
 
 The core idea of the digital poem remains while my own spin on it is now at the forefront, which is the very essence of the remix format. Therefore, I’d say Palamos dreams is successful. 
 
-How do you feel about coding now versus how you felt going into this in Week 1?
+**How do you feel about coding now versus how you felt going into this in Week 1?**
+
 I’m loving it, it was of course daunting at first, but after seeing how AI can be used to learn the different languages I’m hooked. I’m excited to use code in the creation of my final project.
 
-Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?
+**Has your hands-on engagement with interactive digital literature shifted the way that you 'read' e-lit? In what ways?**
 
 It hasn’t changed the way I read the written components of e-lit, i.e. the poetics or prose, but I’m now considering the process undergone to create the works from a coding perspective, and how complicated it must have been to create some of them.
 
