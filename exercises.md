@@ -10,7 +10,7 @@ The Buoy (2019) by Meredith Morran is an incredible piece of poetic autofiction 
 
 ## Week 3
 
-[Coding Playground](www.coding-playground-inky.vercel.app)
+[Coding Playground](c0ding-playground.glitch.me)
 
 **What aspects of the remix are the same?**
 
