@@ -12,3 +12,14 @@ Electronic literature is different from print literature in a variety of ways. F
 
 Taroko Gorge, The Gathering Cloud, First Draft of the Revolution and Shade all share in they must be accessed via a computer or website, a fundamental characteristic of electronic literature. Other digital qualities are their interactive elements, such as the reader’s navigation through The Gathering Cloud and the reader’s control over the story in Shade. The randomisation created through coding algorithms in Taroko Gorge is a perfect example of a unique quality of electronic literature as well. Furthermore, their non-linearity and use of graphics are also common characteristics within digital writing. 
 
+## Espen Aarseth
+
+Espen Aarseth’s idea of ergodic literature is a useful way of expanding how we think about texts, especially in digital contexts. He suggests that some texts require ‘nontrivial effort’ from the reader to move through them, which means that reading becomes more than just sitting back and taking in a story, it becomes something interactive. This changes the way we usually think about narratives, where the author is in full control and the reader just follows along.
+
+In ergodic literature, that dynamic shifts. The reader takes on a more active role and helps shape how the text is experienced. Their decisions, what path they take, where they click and how they explore can affect the way the story plays out. It’s not just about interpretation anymore, it’s about participation. That means two people might go through the same piece and come away with different experiences or understandings, depending on how they engaged with it.
+
+This kind of approach challenges the idea that stories need to follow a set, linear structure. Ergodic texts can branch off, circle back, or take on entirely new directions, depending on how they’re navigated. Structure and sequence become part of the storytelling itself, and that’s something you don’t usually get in traditional print literature.
+
+Aarseth’s framework is especially relevant for thinking about digital works like hypertext fiction, interactive stories, and games but it can also apply to print works like choose your own adventure books or House of Leaves by Mark Z. Danielewski. What matters isn’t the medium, but how much the reader must do to move through the piece.
+
+Overall, it’s a helpful way to think about newer forms of literature that don’t fit into traditional ideas of what a story is or how it should be read. It shows that reading can be active, layered, and shaped by interaction, not just by the author’s words.
