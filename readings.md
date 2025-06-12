@@ -1,4 +1,4 @@
-Defining Electronic Literature
+## Defining Electronic Literature
 
  This sounds silly but the elements of Taroko Gorge, The Gathering Cloud, First Draft of the Revolution and Shade that we read are the written passages contained within each work, separate from any text included only as an interactive element. Although sometimes in digital writing it’s the text itself that we interact with, hypertext for example. The ‘Next page’ button in First Draft of the Revolution is an example of text that is inevitably ‘read’. but wouldn’t be considered the core subject matter that we read to properly consume and understand the work. The fictional text that appears on the next page after the button is clicked is what we read, in terms of the question.
 
